@@ -1,2 +1,2 @@
 # treino-git
-treinando git.
+Iniciando meu git flow
